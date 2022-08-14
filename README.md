@@ -1,7 +1,7 @@
 # Object-Aware Adaptive Image Retargeting Via Importance Map Fusion
 
 
-This repo will contain the codes used in the paper "Object-Aware Adaptive Image Retargeting Via Importance Map Fusion" submitted to ICIP 2022. All codes will be released upon publication. 
+This repo will contain the codes used in the paper "Object-Aware Adaptive Image Retargeting Via Importance Map Fusion" submitted to Pattern Recognition Letters. All codes will be released upon publication. 
 
 In the meantime you can take a look at the survey provided in the link bellow that tests our technique against other retargeting methods:
 
